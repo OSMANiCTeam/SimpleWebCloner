@@ -1,0 +1,4 @@
+# SimpleWebCloner Demos
+OSMANiC Website: https://osmanicteam.github.io/website
+JoshAtticus Website: https://osmanicteam.github.io/SimpleWebCloner/demos/joshatticus-website
+ScratchInfo Website: https://osmanicteam.github.io/SimpleWebCloner/demos/scratchinfo-website
