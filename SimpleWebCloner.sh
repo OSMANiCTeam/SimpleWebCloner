@@ -1,5 +1,5 @@
 # OSMANiC SimpleWebCloner Copyright 2022
-# Version 1.1.0
+# Version 1.2.0
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/SimpleWebCloner
 # If you paid for this software, demand a refund
 FILE=/usr/bin/wget
@@ -11,6 +11,7 @@ wget --mirror            \
      --html-extension    \
      --wait=2            \
      -o log              \
+     --user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0"	\
      $web_address
 echo The website has been saved
 echo Simple Web Cloner CLI tool by OSMANiC Team, powered by wget
