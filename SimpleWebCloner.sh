@@ -1,5 +1,5 @@
 # OSMANiC SimpleWebCloner Copyright 2022
-# Version 1.1
+# Version 1.1.0
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/SimpleWebCloner
 # If you paid for this software, demand a refund
 FILE=/usr/bin/wget
