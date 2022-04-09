@@ -11,6 +11,8 @@ You clearly can't read, the description of this repo and top of the readme says:
 
 # Requirements
 -bash
+
 -wget (If you don't have it, the script will install it for you using <b>apt</b>)
+
 -echo
 
