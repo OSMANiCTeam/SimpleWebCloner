@@ -20,3 +20,5 @@ You clearly can't read, the description of this repo and top of the readme says:
 https://osmanicteam.github.io/website (Original: https://home.osmanic.co)
 
 https://osmanicteam.github.io/SimpleWebCloner/demos/joshatticus-website/ (Original: http://joshatticus.cf)
+
+https://osmanicteam.github.io/SimpleWebCloner/demos/scratchinfo-website/ (Original: https://scratchinfo.vercel.app)
