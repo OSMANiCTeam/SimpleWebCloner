@@ -5,13 +5,13 @@
 FILE=/usr/bin/wget
 if [ -f "$FILE" ]; then
     echo Enter the website to save
-read varname
+read web_address
 wget --mirror            \
      --convert-links     \
      --html-extension    \
      --wait=2            \
      -o log              \
-     $varname
+     $web_address
 echo The website has been saved
 echo Simple Web Cloner CLI tool by OSMANiC Team, powered by wget
 echo Exiting in 10 seconds...
