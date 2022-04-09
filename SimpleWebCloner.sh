@@ -1,3 +1,7 @@
+# OSMANiC SimpleWebCloner Copyright 2022
+# Version 1.1
+# This is free software, obtain a copy at https://github.com/OSMANiCTeam/SimpleWebCloner
+# If you paid for this software, demand a refund
 FILE=/usr/bin/wget
 if [ -f "$FILE" ]; then
     echo Enter the website to save
@@ -13,7 +17,9 @@ echo Simple Web Cloner CLI tool by OSMANiC Team, powered by wget
 echo Exiting in 10 seconds...
 sleep 10s
 else 
-    echo "wget is not installed, please install it using 'sudo apt install wget'"
-    echo "Exiting in 10 seconds..."
+    echo wget is not installed, installing it now
+    sudo apt install wget
+    echo wget has been installed, please re-run the script
+    echo Exiting in 10 seconds...
     sleep 10s
 fi
