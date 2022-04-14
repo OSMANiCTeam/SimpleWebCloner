@@ -8,6 +8,8 @@ I always found it annoying having to manually type the wget link in, and I don't
 It's slow, that's why download managers like IDM and FDM as well as this script exists.
 <h3>The script won't open on Windows</h3>
 You clearly can't read, the description of this repo and top of the readme says: Simple wget CLI website cloner for <b>Linux</b>
+<h3>How do I use it?</h3>
+Here is the tutorial video: https://youtu.be/s8KjCtq_7hY
 
 # Requirements
 -bash
