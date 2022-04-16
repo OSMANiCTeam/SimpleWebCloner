@@ -11,7 +11,7 @@ You clearly can't read, the description of this repo and top of the readme says:
 <h3>How do I use it?</h3>
 Here is the tutorial video: https://youtu.be/s8KjCtq_7hY
 <h3>I get lots of errors when using macOS</h3>
-Please make sure you are using the macOS version, which can be downloaded from the releases tab under version 1.3.1 and higher, then make sure wget is installed via <b>homebrew package manager</b>
+Please make sure you are using the macOS version, which can be downloaded from the releases tab under release 1.3.1 and higher, then make sure wget is installed via <b>homebrew package manager</b>
 <h3>How do I identify what version I am using?</h3>
 Open the file in a text editor and look at the top few lines
 
