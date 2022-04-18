@@ -14,6 +14,8 @@ Here is the tutorial video: https://youtu.be/s8KjCtq_7hY
 Please make sure you are using the macOS version, which can be downloaded from the releases tab under release 1.3.1 and higher, then make sure wget is installed via <b>homebrew package manager</b>
 <h3>How do I identify what version I am using?</h3>
 Open the file in a text editor and look at the top few lines
+<h3>I'm on macOS, why isn't the PATH configurator working?</h3>
+The PATH Configurator does not currently work on macOS. I am working on a macOS Compatible version.
 
 # Requirements
 -bash
