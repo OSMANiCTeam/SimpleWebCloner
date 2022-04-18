@@ -25,7 +25,6 @@ The PATH Configurator does not currently work on macOS. I am working on a macOS 
 -wget (Will auto-install via apt on Linux, please manually install via homebrew (https://brew.sh) if using macOS)
 
 -echo
-
 # Demos
 https://osmanicteam.github.io/website (Original: https://home.osmanic.co)
 
