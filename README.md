@@ -1,5 +1,5 @@
 # SimpleWebCloner
-Simple wget CLI website cloner for Linux, macOS compatible version coming soon
+Simple wget CLI website cloner for macOS and Linux
 <br>
 # Probably going to be asked questions
 <h3>Why?</h3>
