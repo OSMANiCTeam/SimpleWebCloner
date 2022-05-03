@@ -1,5 +1,5 @@
 # OSMANiC SimpleWebCloner for macOS Copyright 2022
-# Version 1.0.0
+# Version 1.0.1
 # This is free software, obtain a copy at https://github.com/OSMANiCTeam/SimpleWebCloner
 # If you paid for this software, demand a refund
 
@@ -15,7 +15,7 @@ wget --mirror            \
      --html-extension    \
      --wait=2            \
      -o log              \
-     --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:99.0) Gecko/20100101 Firefox/99.0"	\
+     --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36"	\
      $web_address
 echo The website has been saved
 echo Simple Web Cloner CLI tool by OSMANiC Team, powered by wget
