@@ -31,8 +31,8 @@ Make sure you have the latest version of the script, that the PATH configurator 
 -echo
 
 # Demos
-[OSMANiC Website](https://osmanicteam.github.io/website) [Original](https://home.osmanic.co)
+[OSMANiC Website](https://osmanicteam.github.io/website) ([Original](https://home.osmanic.co))
 
-[JoshAtticus Website](https://osmanicteam.github.io/SimpleWebCloner/demos/joshatticus-website/) [Original](http://joshatticus.cf)
+[JoshAtticus Website](https://osmanicteam.github.io/SimpleWebCloner/demos/joshatticus-website/) ([Original](http://joshatticus.cf))
 
-[Scratchinfo Website](https://osmanicteam.github.io/SimpleWebCloner/demos/scratchinfo-website/) [Original](https://scratchinfo.vercel.app)
+[Scratchinfo Website](https://osmanicteam.github.io/SimpleWebCloner/demos/scratchinfo-website/) ([Original](https://scratchinfo.vercel.app))
